@@ -8,16 +8,16 @@ python3 fetch_intronless_genes.py [optional species] (default *gallus gallus*) [
 
 ## Files
 <ul>
-  <li> <b>fetch_intronless_genes.py</b>: &nbsp; Main script</li>
+  <li> <b>fetch_intronless_genes.py</b>: &nbsp; Main script.</li>
   <li> <b>fetch_genes.py</b>: &nbsp; Script containing functions required for <i>fetch_intronless_genes.py</i></li>
-  <li> <b>intron_UTR_db.txt</b>: &nbsp; Required intron database of genes with introns in the UTR region for several species (NOT uploaded to GitHub). File should be downloaded from http://www.nextgenbioinformatics.org/IntronDB </li> 
+  <li> <b>intron_UTR_db.txt</b>: &nbsp; Required intron database of genes with introns in the UTR region for several species (NOT uploaded to GitHub). File should be downloaded from http://www.nextgenbioinformatics.org/IntronDB.</li> 
 </ul>
 
 ## Output
 <ul>
-  <li> <b>{species}-multi_exon_genes.tsv</b>: Contains data of multi-exon genes.</li>
-  <li> <b>{species}-ui_single_exon_genes.tsv</b>: Contains data of UTR intron-containing single exon genes.</li>
-  <li> <b>{species}-intronless_genes.tsv</b>: Contains data of intronless genes.</li>
+  <li> <b>{species}-multi_exon_genes.tsv</b>: &nbsp; Contains data of multi-exon genes.</li>
+  <li> <b>{species}-ui_single_exon_genes.tsv</b>: &nbsp; Contains data of UTR intron-containing single exon genes.</li>
+  <li> <b>{species}-intronless_genes.tsv</b>: &nbsp; Contains data of intronless genes.</li>
 </ul>
 
 ## Example
