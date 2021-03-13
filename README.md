@@ -1,7 +1,7 @@
 # IGFinder
 **IGFinder**: Intronless genes finder for input species. 
 
-IGFinder is a programme for identifying intronless genes for a particular organism. IGFinder works by using a ENSEMBL API. 
+IGFinder is a programme for identifying intronless genes for a particular organism. IGFinder works by using an ENSEMBL API. 
 
 ## Usage
 python3 fetch_intronless_genes.py [optional species] (default *gallus gallus*) [/path/to/intron_UTR_db.txt]
