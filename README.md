@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/320059139.svg)](https://zenodo.org/badge/latestdoi/320059139)
 # IGFinder
 **IGFinder**: Intronless genes finder for input species. 
 
