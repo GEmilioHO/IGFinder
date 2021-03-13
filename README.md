@@ -1,4 +1,4 @@
-# intronless_genes
+# IGFinder
 This script gets all the intronless genes of a particular organism.
 
 ### Files
