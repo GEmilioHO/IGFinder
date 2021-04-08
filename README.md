@@ -10,7 +10,7 @@ python3 fetch_intronless_genes.py [optional species] (default *gallus gallus*) [
 ## Files
 <ul>
   <li> <b>fetch_intronless_genes.py</b>: &nbsp; Main script.</li>
-  <li> <b>fetch_genes.py</b>: &nbsp; Script containing functions required for <i>fetch_intronless_genes.py</i></li>
+  <li> <b>fetch_genes.py</b>: &nbsp; Script containing helper functions for <i>fetch_intronless_genes.py</i></li>
   <li> <b>intron_UTR_db.txt</b>: &nbsp; Required intron database of genes with introns in the UTR region for several species (NOT uploaded to GitHub). File should be downloaded from http://www.nextgenbioinformatics.org/IntronDB.</li> 
 </ul>
 
