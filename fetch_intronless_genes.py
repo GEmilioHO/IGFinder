@@ -3,8 +3,8 @@
 """
 Created on Fri Nov 20 12:39:33 2020
 
-@author: andresgarcíagarcía
-@edited: gabrielemilioherreraoropeza
+@author1: andresgarcíagarcía
+@author2: gabrielemilioherreraoropeza
 @supervisors: katiaaviñapadilla AND maribelhernandezrosales
 
 """
