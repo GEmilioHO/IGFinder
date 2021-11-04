@@ -25,4 +25,4 @@ python3 fetch_intronless_genes.py [optional species] (default *gallus gallus*) [
 python3 fetch_intronless_genes.py "mus musculus" "/path/to/intron_UTR_db.txt"
 
 ## Citation
-Aviña-Padilla, K., Rafael, J. A. R., Herrera-Oropeza, G. E., Muley, V., Valdivia, D., Valenzuela, E. D., ... & Hernández-Rosales, M. (2021). Evolutionary Perspective And Expression Analysis Of Intronless Genes Highlight The Conservation On Their Regulatory Role. bioRxiv.
+Aviña-Padilla, K., Ramírez-Rafael, J. A., Herrera-Oropeza, G. E., Muley, V. Y., Valdivia, D. I., Díaz-Valenzuela, E., García-García, A., Varela-Echavarría, A., & Hernández-Rosales, M. (2021). Evolutionary Perspective and Expression Analysis of Intronless Genes Highlight the Conservation of Their Regulatory Role. Frontiers in genetics, 12, 654256. https://doi.org/10.3389/fgene.2021.654256
